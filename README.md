@@ -1,5 +1,5 @@
 # MVVMSample005
-Microsoft.Toolkit.Mvvm WPF Sample 5 - messenger
+MVVM Toolkit (`Microsoft.Toolkit.Mvvm`) WPF Sample 5 - messenger
 
 Sample of sending a message using ObservableRecipient and omitting the WeakReferenceMessenger registration process
 
